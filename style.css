@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+.carousel-item img {
+
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+}
+
+
+
+.footer {
+    background-color: rgb(37, 25, 25);
+    padding: 20px;
+    text-align: center;
+}
+
